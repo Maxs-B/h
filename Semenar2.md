@@ -55,4 +55,22 @@ git checkout
 
 ## Изображения
 
+**Что бы добавить изображения, воспользуйтесь следующей командой:**
+
+```
+![Альтернативный текст](ссылка на фото )
+```
+Пример:
+![фото](https://sun9-64.userapi.com/impg/AGF0-gIIpAYtK4kk2tQ-pz9447WAJCUYAHY4YQ/WY9x-NRP4R4.jpg?size=997x2160&quality=96&sign=9645cb6fb074e85477d5698724281954&type=album)
+
+**Если свое фото - то указываем его название:**
+![мое фото](kartinki-milyh-zhivotnyh-52.jpg)
+
+**Если мы хотим добавить изображение ссылки, то нашу конструкцию нужно делать такой:**
+
+```
+[![альтернативный текст(ссылка)]] (Ссылка на другую картинку перевертыш)
+```
+
+[![фотография нажми получишь бонус](https://sun1-28.userapi.com/impg/TnozJAeKbtMUw0t_8De_FFVDL5-1kHbMbyd8GA/de0qPGG0clE.jpg?size=1032x1548&quality=96&sign=06abd5aae4d3a0c3b341eeec204dc848&type=album)](https://sun9-28.userapi.com/impg/M-TzImBlNUjP0fz71i5w5EGbrlPxHXVU7h7Uqw/ClKOYxCg9vo.jpg?size=1273x1800&quality=96&sign=2d165a81a3d7e00dafb691c0a61adff9&type=album)
 
