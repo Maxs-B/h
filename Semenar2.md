@@ -52,7 +52,6 @@ git checkout
 В декоративных целях заголовки можно "закрывать" с обратной стороны
 
 
-
 ## Исходный код
 
 **В чистом Макдауне блоки кода отбиваются 4 пробелами в начале каждой строки. 
@@ -109,3 +108,8 @@ Content Cell | Content Cell
 
 [![фотография нажми получишь бонус](https://sun1-28.userapi.com/impg/TnozJAeKbtMUw0t_8De_FFVDL5-1kHbMbyd8GA/de0qPGG0clE.jpg?size=1032x1548&quality=96&sign=06abd5aae4d3a0c3b341eeec204dc848&type=album)](https://sun9-28.userapi.com/impg/M-TzImBlNUjP0fz71i5w5EGbrlPxHXVU7h7Uqw/ClKOYxCg9vo.jpg?size=1273x1800&quality=96&sign=2d165a81a3d7e00dafb691c0a61adff9&type=album)
 
+## Цитаты 
+
+## Горизонтальная черта
+
+## Emphasis
